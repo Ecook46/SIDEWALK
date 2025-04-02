@@ -44,5 +44,16 @@ The repository is organized into three main folders:
    git clone https://github.com/Ecook46/SIDEWALK.git
    cd SIDEWALK
 2. **Install Dependencies**:
-   It is recommended to use a Python virtual environment of Conda environment
+   It is recommended to use a Python virtual environment.
+   Dependencies include:
+   - yolov11
+   - opencv-python
+   - follium
+   - selenium
+   - matplotlib
+   - reportlab
+   - pandas
+   - numpy
+3. **Running the Project:**
+   Navigate into the specific folders(e.g., Driving, Model Training or Processing)        based on your needed functionality.
    
